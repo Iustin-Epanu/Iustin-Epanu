@@ -22,8 +22,8 @@ Cloudflight Coding Contest 2026 (23 October 2026). AI tools were allowed, so we 
 
 | Repo | Round | Result |
 |---|---|---|
-| [ccc-ai-engineer-classic](https://github.com/Theosux/ccc-ai-engineer-classic) | Classic. Contest workflow that downloads, solves, checks and submits each level. | 9th in the world, 3rd in Romania, 3rd in Cluj |
-| [ccc-ai-engineer-data-ai](https://github.com/Theosux/ccc-ai-engineer-data-ai) | Data/AI. AI autopilot plus an AlphaZero-style tournament bot (MCTS, PyTorch, ONNX). | 11th in the world, 5th in Romania, 2nd in Cluj |
+| [ccc-ai-engineer-classic](https://github.com/Iustin-Epanu/ccc-ai-engineer-classic) | Classic. Contest workflow that downloads, solves, checks and submits each level. | 9th in the world, 3rd in Romania, 3rd in Cluj |
+| [ccc-ai-engineer-data-ai](https://github.com/Iustin-Epanu/ccc-ai-engineer-data-ai) | Data/AI. AI autopilot plus an AlphaZero-style tournament bot (MCTS, PyTorch, ONNX). | 11th in the world, 5th in Romania, 2nd in Cluj |
 
 ## Writing
 
