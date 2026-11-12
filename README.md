@@ -16,6 +16,15 @@ I'm an Artificial Intelligence student at [Babeș-Bolyai University](https://www
 
 Previously: Data Scientist at Imperium Team SRL (June 2024 to March 2025), machine learning on road-freight data.
 
+## Competitions
+
+Cloudflight Coding Contest 2026 (23 October 2026). AI tools were allowed, so we built a Claude Code workflow for each round.
+
+| Repo | Round | Result |
+|---|---|---|
+| [ccc-ai-engineer-classic](https://github.com/Theosux/ccc-ai-engineer-classic) | Classic. Contest workflow that downloads, solves, checks and submits each level. | 9th in the world, 3rd in Romania, 3rd in Cluj |
+| [ccc-ai-engineer-data-ai](https://github.com/Theosux/ccc-ai-engineer-data-ai) | Data/AI. AI autopilot plus an AlphaZero-style tournament bot (MCTS, PyTorch, ONNX). | 11th in the world, 5th in Romania, 2nd in Cluj |
+
 ## Writing
 
 - [How Resto turns a restaurant's POS into live table availability](https://iustin-epanu.github.io/writing/resto-pos-live-availability/)
